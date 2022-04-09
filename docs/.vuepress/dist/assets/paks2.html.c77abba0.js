@@ -1,1 +1,0 @@
-const t={key:"v-6a9a517b",path:"/ugyek/paks2.html",title:"Paks2",lang:"hu-HU",frontmatter:{lang:"hu-HU",title:"Paks2",description:"Description of this page"},excerpt:"",headers:[],git:{updatedTime:1649276128e3,contributors:[{name:"David Fodor",email:"scottanyo@gmail.com",commits:1}]},filePathRelative:"ugyek/paks2.md"};export{t as data};

@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,a,b as o}from"./app.cafe630b.js";const c={},i={id:"mi-is-ez",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#mi-is-ez","aria-hidden":"true"},"#",-1),r=o(" Mi is ez?"),n=[_,r];function d(h,m){return t(),s("h1",i,n)}var l=e(c,[["render",d],["__file","mi-ez.html.vue"]]);export{l as default};

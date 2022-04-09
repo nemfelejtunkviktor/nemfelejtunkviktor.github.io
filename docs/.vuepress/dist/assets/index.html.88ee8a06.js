@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,a as o,b as s}from"./app.cafe630b.js";const c={},n={id:"nfv",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#nfv","aria-hidden":"true"},"#",-1),r=s(" NFV"),d=[_,r];function i(h,f){return t(),a("h1",n,d)}var x=e(c,[["render",i],["__file","index.html.vue"]]);export{x as default};

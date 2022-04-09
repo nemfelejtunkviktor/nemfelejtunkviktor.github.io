@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as s,a as t,b as o}from"./app.cafe630b.js";const c={},_={id:"a-pegazus",tabindex:"-1"},r=t("a",{class:"header-anchor",href:"#a-pegazus","aria-hidden":"true"},"#",-1),n=o(" A pegazus"),d=[r,n];function h(i,u){return a(),s("h1",_,d)}var f=e(c,[["render",h],["__file","pegazus.html.vue"]]);export{f as default};
