@@ -11,15 +11,17 @@ module.exports = {
     themeConfig: {
       logo: 'https://vuejs.org/images/logo.png',
       sidebar: [
-        '/mi-ez.html',
+        '/hogyan-tudsz-segiteni.html',
         {
-          title: 'Ugyek',
-          text:'Ugyek',
+          title: 'Ügyek',
+          text:'Ügyek',
           collapsable: true, 
           sidebarDepth: 1,
           children: [
+              '/ugyek/a-2022-es-valasztasok.html',
+              '/ugyek/kozmedia.html',
+              '/ugyek/pegazus.html',
             '/ugyek/paks2.html',
-            '/ugyek/pegazus.html'
           ]
         },
         
