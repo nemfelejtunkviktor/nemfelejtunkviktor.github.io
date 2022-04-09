@@ -1,3 +1,10 @@
+---
+lang: hu-HU
+title: A 2018-as választási törvény
+description: A törvény a Fidesznek kedvez.
+---
+
+
 # A 2018-as választási törvény
 
 A levélszavazásra kizárólag a magyarországi lakcímmel nem rendelkező határon túli

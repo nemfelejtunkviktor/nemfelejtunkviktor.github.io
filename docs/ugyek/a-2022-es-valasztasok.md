@@ -53,4 +53,5 @@ Minél nagyobb arányú volt a közmunka egy településen, annál többen szava
 
 * [Transtelex](https://transtelex.ro/kozelet/2022/03/31/kidobott-levelszavazatok-erdely)
 * [Telex](https://telex.hu/valasztas-2022/2022/03/30/szerbia-vajdasag-szavazas)
+* [valasztas.hu](https://vtr.valasztas.hu/ogy2022/valasztasi-informaciok/levelszavazas?tab=results)
 

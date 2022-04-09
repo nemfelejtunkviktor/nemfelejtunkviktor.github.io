@@ -9,6 +9,7 @@ module.exports = {
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
+      contributors: false,
       logo: 'https://vuejs.org/images/logo.png',
       sidebar: [
         '/hogyan-tudsz-segiteni.html',
@@ -18,6 +19,8 @@ module.exports = {
           collapsable: true, 
           sidebarDepth: 1,
           children: [
+              '/ugyek/alapitvanyok.html',
+              '/ugyek/a-2018-as-valasztasi-torveny.html',
               '/ugyek/a-2022-es-valasztasok.html',
               '/ugyek/kozmedia.html',
               '/ugyek/pegazus.html',
