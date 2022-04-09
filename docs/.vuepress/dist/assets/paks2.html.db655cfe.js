@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as t,F as r,a as e,b as c}from"./app.cafe630b.js";const n={},o=e("h1",{id:"paks2",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#paks2","aria-hidden":"true"},"#"),c(" Paks2")],-1),_=e("p",null,"Yep.",-1);function d(l,h){return s(),t(r,null,[o,_],64)}var p=a(n,[["render",d],["__file","paks2.html.vue"]]);export{p as default};
