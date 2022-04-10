@@ -21,7 +21,7 @@ További részleteket [itt](/hogyan-tudsz-segiteni.html) találsz azzal a kapcso
 
 ## Miért?
 
-A 2022-es választási eredmények felzaklattak. Ahogy az egy friss 444 videóban elhangzik, ez nem volt egy demokratikus választás:
+A 2022-es választási eredmények felzaklattak. Ahogy az egy friss [444 videóban elhangzik](https://444.hu/2022/04/09/ellenallas-es-eros-uzenet-nelkul-akartak-legyozni-orbant-a-sajat-rendszereben), ez nem volt egy demokratikus választás:
 
 * az állam és a párt összefonódott
 * a választási szabályok a kormánypártra vannak írva
@@ -31,4 +31,9 @@ A 2022-es választási eredmények felzaklattak. Ahogy az egy friss 444 videóba
 Szerettem volna tenni valamit. Bármit, aminek van hatása.
 Azt érzem, hogy bármit megtehetnek, irnak róla az újságok, portálok, de egyszerűen lepereg róluk, mi meg elfelejtjük.
 Vagy mert annyire ködösít a kormány, vagy mert egyszerűen leesett az ingerküszöbünk. Na meg persze mindig jön egy újabb.
+
+De hát ilyen már van nem? Igen, lehet hogy vannak hasonló projektek, de szerettem volna egy olyat csinálni, ami:
+
+* abszolút civil, pártoktól, képviselőktől függetlenül készül
+* közösség által karbantartott, teljesen átlátható
 

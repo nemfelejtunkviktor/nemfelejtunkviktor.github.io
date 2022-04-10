@@ -1,3 +1,9 @@
+---
+lang: hu-HU
+title: A 2022-es választások
+description: Problémák és anomáliák a választásokkal kapcsolatban
+---
+
 # A 2022-es választások
 
 Nem mondhatjuk ki azt, hogy a Fidesz teljesen elcsalta a 2022-es választásokat, az ellenzék sajnos tett azért, hogy ezt 
@@ -21,6 +27,12 @@ szavazólapot minden egyes választás és népszavazás előtt.
 
 Kidobott, részben elégetett levélszavazatokat találtak a Marosvásárhellyel szomszédos Jedden egy illegális szemétlerakóban.
 A tudósítás szerint is jól látható, hogy a szavazási lapokon kivétel nélkül az ellenzékre leadott szavazatok voltak.
+A választások után a Momentumf elülvizsgálati kérelmet nyújtöt be, de a Kúria egyetértett az NVB-vel abban, hogy 
+nincs lehetőség a levélszavazás tisztaságának ellenőrzésére, mivel csak Magyarország területén tudnak érvényt szerezni a 
+választási szabályoknak.
+
+A Kúria azzal védi az elutasító határozatot, hogy nincs egyértelmű bizonyíték arra, hogy a romániai szavazólapok valódiak voltak.
+
 
 A levélszavazatok 93,91 százaléka érkezett a Fidesz-KDNP listájára, a maradék bő 6 százalékon osztozott az összes ellenzéki párt.
 
@@ -54,4 +66,5 @@ Minél nagyobb arányú volt a közmunka egy településen, annál többen szava
 * [Transtelex](https://transtelex.ro/kozelet/2022/03/31/kidobott-levelszavazatok-erdely)
 * [Telex](https://telex.hu/valasztas-2022/2022/03/30/szerbia-vajdasag-szavazas)
 * [valasztas.hu](https://vtr.valasztas.hu/ogy2022/valasztasi-informaciok/levelszavazas?tab=results)
+* [444.hu](https://444.hu/2022/04/10/a-kuria-egyetertett-a-nemzeti-valasztasi-bizottsaggal-abban-hogy-nincs-lehetoseg-a-levelszavazas-tisztasaganak-ellenorzesere)
 

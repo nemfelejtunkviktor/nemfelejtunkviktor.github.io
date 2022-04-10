@@ -1,3 +1,9 @@
+---
+lang: hu-HU
+title: Közmédia
+description: Hogyan vált a közmédiából propaganda fegyver
+---
+
 # Közmédia
 
 Azt gondolom nem kell ragozni. A Fidesz az elmúlt években szisztematikusan lezüllesztette a hazai médiát. A tévében 
