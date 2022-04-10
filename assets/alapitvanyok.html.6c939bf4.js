@@ -1,0 +1,1 @@
+const t={key:"v-2b4d5307",path:"/ugyek/alapitvanyok.html",title:"Alap\xEDtv\xE1nyok",lang:"hu-HU",frontmatter:{lang:"hu-HU",title:"Alap\xEDtv\xE1nyok",description:"Avagy hov\xE1 t\xFCnt a k\xF6zp\xE9nz."},excerpt:"",headers:[{level:2,title:"Linkek",slug:"linkek",children:[]}],git:{updatedTime:164957806e4},filePathRelative:"ugyek/alapitvanyok.md"};export{t as data};

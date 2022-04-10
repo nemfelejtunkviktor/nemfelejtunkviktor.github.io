@@ -1,0 +1,1 @@
+const e={key:"v-3500ec4b",path:"/ugyek/pegazus.html",title:"A Pegazus sztori",lang:"hu-HU",frontmatter:{lang:"hu-HU",title:"A Pegazus sztori",description:"Description of this page"},excerpt:"",headers:[],git:{updatedTime:164957806e4},filePathRelative:"ugyek/pegazus.md"};export{e as data};
