@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"NFV","lang":"hu-HU","frontmatter":{"lang":"hu-HU","title":"NFV","description":"Nem Felejt\xFCnk Viktor"},"excerpt":"","headers":[{"level":2,"title":"Mi is ez?","slug":"mi-is-ez","children":[]},{"level":2,"title":"Mi\xE9rt?","slug":"miert","children":[]}]}');export{e as data};

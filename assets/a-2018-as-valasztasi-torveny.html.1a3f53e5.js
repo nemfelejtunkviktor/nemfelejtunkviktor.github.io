@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1ee4df5e","path":"/ugyek/a-2018-as-valasztasi-torveny.html","title":"A 2018-as v\xE1laszt\xE1si t\xF6rv\xE9ny","lang":"hu-HU","frontmatter":{"lang":"hu-HU","title":"A 2018-as v\xE1laszt\xE1si t\xF6rv\xE9ny","description":"A t\xF6rv\xE9ny a Fidesznek kedvez."},"excerpt":"","headers":[]}');export{t as data};
